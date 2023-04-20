@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone 😊 I'm Jaime <br>21 years old | Cross-platform application developer<br><br>🔭 I’m currently studying a degree in cross-platform application development<br> 💪 I’m looking to collaborate with others developers<br>🤝 I’m looking for team working<br>🌱 I’m currently learning machine learning and data analyst libraries in Python
+Hi everyone 😊 I'm Jaime | 21 years old | Cross-platform application developer<br><br>🔭 I’m currently studying a degree in cross-platform application development<br> 💪 I’m looking to collaborate with others developers<br>🤝 I’m looking for team working<br>🌱 I’m currently learning machine learning and data analyst libraries in Python
 
 
 ## 🌐 Socials:
